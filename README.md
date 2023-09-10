@@ -6,7 +6,7 @@
 
 ## Nice meeting you, I'm Richard!
 
-I'm currently a 2nd-year Computer science student @ CSUF learning C/C++, HTML, CSS, and (**to be updated**). I love developing software that provides people with the best utility and user experience. Thank you for checking me out, and feel free to reach out from any of the links below!
+I'm a 2nd-year Computer science student @ CSUF learning C/C++, HTML, CSS, and (**to be updated**). I love developing software that provides people with the best utility and user experience. Thank you for checking me out, and feel free to reach out from any of the links below!
 
 ## Projects
 
@@ -19,7 +19,7 @@ I'm currently a 2nd-year Computer science student @ CSUF learning C/C++, HTML, C
 
 ### App & Chrome Plugin:
 
-*W.I.P* | Developed a link-saving app providing users ease of access to URLs on thousands of platforms. Providing a service that documents their searches, provides a tailored summary of their inquiry, and saves it for them. 
+*W.I.P* | Developed a link-saving app providing users easy access to URLs on thousands of platforms. Providing a service that documents their searches, provides a tailored summary of their inquiry, and saves it for them. 
 
 - **Coding Languages:** HTML & JavaScript & CSS
 - **Skills:** App Development & Frontend Programming & Product Design
