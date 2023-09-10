@@ -34,8 +34,8 @@ I'm a 2nd-year Computer science student @ CSUF learning C/C++, HTML, CSS, and (*
 
 **Programming Languages:** C/C++, HTML, CSS, JavaScript
 **Technologies:** GitHub, Git, Slack, Visual Studio Code
-**Tools:** Figma, Sketch, Adobe XD, Adobe Photoshop, Adobe Illustrator
-**Soft Skills:** Communication, Teamwork, Problem Solving
+**Tools:** Figma, Framer, Webflow, Sketch, Adobe XD, Adobe Photoshop, Adobe Illustrator, Mimo
+**Soft Skills:** Communication, Teamwork, Problem Solving, Project Management, 
 
 ## Links
 
@@ -43,4 +43,5 @@ I'm a 2nd-year Computer science student @ CSUF learning C/C++, HTML, CSS, and (*
 [**LinkedIn**](https://www.linkedin.com/in/richard-hoang-rn04/) |
 [**GitHub Profile**](https://www.linkedin.com/in/richard-hoang-rn04/) |
 [**Email Address**](richardhoang280@gmail.com) |
-[**Sus**](https://www.tiktok.com/@twizzicle/video/7112895848983547182?lang=en)
+[**Sus**](https://www.tiktok.com/@twizzicle/video/7112895848983547182?lang=en) |
+**Resume:**  W.I.P |
