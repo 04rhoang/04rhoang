@@ -32,10 +32,10 @@ I'm a 2nd-year Computer science student @ CSUF learning C/C++, HTML, CSS, and (*
 
 ## Skills
 
-**Programming Languages:** C/C++, HTML, CSS, JavaScript
-**Technologies:** GitHub, Git, Slack, Visual Studio Code
-**Tools:** Figma, Framer, Webflow, Sketch, Adobe XD, Adobe Photoshop, Adobe Illustrator, Mimo
-**Soft Skills:** Communication, Teamwork, Problem Solving, Project Management, 
+**Programming Languages:** C/C++, HTML, CSS, JavaScript </br>
+**Technologies:** GitHub, Git, Slack, Visual Studio Code </br>
+**Tools:** Figma, Framer, Webflow, Sketch, Adobe XD, Adobe Photoshop, Adobe Illustrator, Mimo </br>
+**Soft Skills:** Interpersonal Communication, Teamwork, Problem-Solving, Project Management, Multitasking, Time Management </br>
 
 ## Links
 
