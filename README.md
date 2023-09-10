@@ -1,16 +1,46 @@
-### Hi there 👋
+<div align="center">
+  
+# Richard Hoang
+  
+</div>
 
-<!--
-**04rhoang/04rhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nice meeting you, I'm Richard!
 
-Here are some ideas to get you started:
+I'm currently a 2nd-year Computer science student @ CSUF learning C/C++, HTML, CSS, and (**to be updated**). I love developing software that provides people with the best utility and user experience. Thank you for checking me out, and feel free to reach out from any of the links below!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Portfolio Website
+
+*W.I.P* | Established a personal brand via a portfolio website through self-taught HTML and CSS. My website provides a career timeline, resume, UX design case studies, and details about my personal projects.
+
+- **Coding Languages:** HTML & CSS
+- **Skills:** Web Development & UX Design & Product Design
+
+### App & Chrome Plugin:
+
+*W.I.P* | Developed a link-saving app providing users ease of access to URLs on thousands of platforms. Providing a service that documents their searches, provides a tailored summary of their inquiry, and saves it for them. 
+
+- **Coding Languages:** HTML & JavaScript & CSS
+- **Skills:** App Development & Frontend Programming & Product Design
+
+### Website Concept: Project Resync
+*W.I.P* | developing a digital tool to save and share their memories with loved ones. Featuring a timeline, history, and family tree for close ones and saving memories as a time capsule.
+
+- **Coding Languages:**
+- **Skills:**
+
+## Skills
+
+**Programming Languages:** C/C++, HTML, CSS, JavaScript
+**Technologies:** GitHub, Git, Slack, Visual Studio Code
+**Tools:** Figma, Sketch, Adobe XD, Adobe Photoshop, Adobe Illustrator
+**Soft Skills:** Communication, Teamwork, Problem Solving
+
+## Links
+
+**Portfolio Website:** W.I.P |
+[**LinkedIn**](https://www.linkedin.com/in/richard-hoang-rn04/) |
+[**GitHub Profile**](https://www.linkedin.com/in/richard-hoang-rn04/) |
+[**Email Address**](richardhoang280@gmail.com) |
+[**Sus**](https://www.tiktok.com/@twizzicle/video/7112895848983547182?lang=en)
