@@ -44,4 +44,4 @@ I'm a 2nd-year Computer science student @ CSUF learning C/C++, HTML, CSS, and (*
 [**GitHub Profile**](https://www.linkedin.com/in/richard-hoang-rn04/) |
 [**Email Address**](richardhoang280@gmail.com) |
 [**Sus**](https://www.tiktok.com/@twizzicle/video/7112895848983547182?lang=en) |
-**Resume:**  W.I.P |
+[**Resume:**](https://docs.google.com/document/d/1uMMkaMehDxSb7h88_BnJO-cnb-Hm3lvL2wpBAonH2Hc/edit?usp=sharing) |
